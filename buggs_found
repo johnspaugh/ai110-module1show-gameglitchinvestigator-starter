@@ -1,0 +1,9 @@
+
+app,py errors
+-enter number in guess input, but it doesn't work, just need to use submit button
+-have to enter another number to see in history, not after submitted it.
+-when all the way to 100 still say go higher, did 101 go lower, so answer is broken some how.
+-history did go past 5 entry logs
+- the go higher and go lower are pointing opposite directions
+-hard and normal has their ranges mixed up
+
